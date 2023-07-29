@@ -2,7 +2,7 @@
 
 <h1>I'm Dion, an <a href="https://www.linkedin.com/in/dion-alexander-682b04233/">IT and Cybersecurity Professional</a> 💻🛡</h1>
 
-- 🤺 I currently work on [Network Security, Monitoring and Analysis] at the 690th CyberSpace Wing of the USAF.
+- 🤺 I currently work on Network Security, Monitoring and Analysis at the 690th CyberSpace Wing of the USAF.
 
 - 🧠 I’m currently learning **Blue Team Operations & Python Scripting**
 
