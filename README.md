@@ -1,23 +1,21 @@
 ![greetings (1)](https://user-images.githubusercontent.com/109401839/212478916-224c7588-ae9d-41bf-ad0f-228ab2e0d110.gif)
 
-- ☁ Security Professional with a strong proficiency in the cloud. 
+<h1>I'm Dion, an <a href="https://www.linkedin.com/in/dion-alexander-682b04233/">IT and Cybersecurity Professional</a> 💻🛡</h1>
 
-- 🧠 I'm actively improving my skillset.
+- 🤺 I currently work on [Network Security, Monitoring and Analysis] at the 690th CyberSpace Wing of the USAF.
 
-- 🗃 I'm currently working on several Cybersecurity projects and Azure labs..
+- 🧠 I’m currently learning **Blue Team Operations & Python Scripting**
 
-- 🌍 I'm mostly active within the LinkedIn & Discord.
+- 🤝 I’m open to collaborating on Cloud based projects, Threat Detections, Home Labs & more.
 
-- 💬 Ping me about **IT**, **Cyber Security**, **Content Creation**, **Collaborations**, **General Talk**
+- 📝 I regularly write articles on [https://www.Medium.com](https://medium.com/@DionTheDefender)
 
-- 📫 Reach me at [My Website](https://)
+- 💬 Ask me about **Cybersecurity & Cloud Security**
 
----
-
-<h1>Hi, I'm Dion, an <a href="https://www.linkedin.com/in/dion-alexander-682b04233/">IT and Cybersecurity Professional</a> 💻🛡</h1>
+- 📫 How to reach me **dion.alexander33@yahoo.com**
 
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/109401839/212478926-900d4c1f-7cc6-4334-a601-523e4f7c5a62.svg)
-
+---
 
 <h2>🎭 Cybersecurity Projects:</h2>
 
