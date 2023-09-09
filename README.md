@@ -64,5 +64,5 @@
 
 [<img align="left" alt="Dion | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[linkedin]: https://www.linkedin.com/in/dion-alexander-682b04233/
+[linkedin]: http://linkedin.com/in/infosecdion
 
