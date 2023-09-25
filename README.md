@@ -8,7 +8,7 @@
 
 - 🤝 I’m open to collaborating on Cloud based projects, Threat Detections, Home Labs & more.
 
-- 📝 I regularly write articles on [https://www.Medium.com](https://medium.com/@DionTheDefender)
+- 📝 I regularly write articles on [https://www.Medium.com](https://medium.com/@InfoSecDion)
 
 - 💬 Ask me about **Cybersecurity & Cloud Security**
 
