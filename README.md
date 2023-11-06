@@ -2,11 +2,11 @@
 
 <h1>I'm Dion, an <a href="https://www.linkedin.com/in/dion-alexander-682b04233/">IT and Cybersecurity Professional</a> 💻🛡</h1>
 
-- 🤺 I currently work on Network Security, Monitoring and Analysis at the 690th CyberSpace Wing of the USAF.
+- 🤺 I currently work on Identity and Access Management (IAM,PAM,IGA) at the 688th CyberSpace Wing of the USAF.
 
-- 🧠 I’m currently learning **Blue Team Operations & Python Scripting**
+- 🧠 I’m currently learning **Blue Team Operations & Powershell Scripting**
 
-- 🤝 I’m open to collaborating on Cloud based projects, Threat Detections, Home Labs & more.
+- 🤝 I’m open to collaborating on Cloud Security based projects, Threat Detections, Home Labs & more.
 
 - 📝 I regularly write articles on [https://www.Medium.com](https://medium.com/@InfoSecDion)
 
