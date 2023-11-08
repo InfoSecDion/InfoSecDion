@@ -19,6 +19,9 @@
 
 <h2>🎭 Cybersecurity Projects:</h2>
 
+- <b>Threat Intelligence</b>
+- [Threat Intelligence Report Lab (OSINT)](https://github.com/InfoSecDion/Threat-Intel/tree/main)
+
 - <b>Microsoft Azure</b>
   - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/InfoSecDion/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)                        
   - [Setup a SIEM in Microsoft Azure (Sentinel)](https://github.com/InfoSecDion/Setup-a-SIEM-in-Microsoft-Azure-Sentinel-)
