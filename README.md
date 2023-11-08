@@ -20,7 +20,7 @@
 <h2>🎭 Cybersecurity Projects:</h2>
 
 - <b>Indentity and Access Management (IAM)</b>
-  - [Automated User Migration with AWS Identity and Access Management](https://github.com/InfoSecDion/AWS-IAM/tree/main#readme)
+  - [Automated User Migration with AWS Identity and Access Management](https://github.com/InfoSecDion/AWS-IAM)
     
 
 - <b>Threat Intelligence</b>
