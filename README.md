@@ -19,6 +19,9 @@
 
 <h2>🎭 Cybersecurity Projects:</h2>
 
+- <b>Indentity and Access Management (IAM)</b>
+  - [Automated User Migration with AWS Identity and Access Management](https://github.com/InfoSecDion/AWS-IAM/tree/main#readme)
+
 - <b>Threat Intelligence</b>
   - [Threat Intelligence Report Lab (OSINT)](https://github.com/InfoSecDion/Threat-Intel/tree/main)
 
