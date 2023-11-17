@@ -4,7 +4,7 @@
 
 - 🤺 I currently work on Cybersecurity, Network Security and Identity and Access Management (IAM & PAM) at the 688th CyberSpace Wing of the USAF.
 
-- 🧠 I’m currently learning **Blue Team Operations & Powershell Scripting**
+- 🧠 I’m currently learning **Blue Team Operations, Python & Powershell Scripting**
 
 - 🤝 I’m open to collaborating on Cloud Security based projects, Threat Detections, Home Labs & more.
 
