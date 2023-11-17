@@ -2,7 +2,7 @@
 
 <h1>I'm Dion, an <a href="https://www.linkedin.com/in/dion-alexander-682b04233/">IT and Cybersecurity Professional</a> 💻🛡</h1>
 
-- 🤺 I currently work on Cybersecurity and Identity and Access Management (IAM & PAM) at the 688th CyberSpace Wing of the USAF.
+- 🤺 I currently work on Cybersecurity, Network Security and Identity and Access Management (IAM & PAM) at the 688th CyberSpace Wing of the USAF.
 
 - 🧠 I’m currently learning **Blue Team Operations & Powershell Scripting**
 
@@ -19,7 +19,7 @@
 
 <h2>🎭 Cybersecurity Projects:</h2>
 
-- <b>Indentity and Access Management (IAM)</b>
+- <b>Amazon Web Services (IAM)</b>
   - [Automated User Migration with AWS Identity and Access Management](https://github.com/InfoSecDion/AWS-IAM)
     
 
