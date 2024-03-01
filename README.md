@@ -32,7 +32,7 @@
   - [Azure Vulnerability Management Lab (OpenVAS)](https://github.com/InfoSecDion/OpenVAS)
  
 - <b>Offensive Security</b>
-  - [Coding Dojo Graduation Capstone (Penetration Test/Ethical Hacking)](https://github.com/InfoSecDion/Ethical-Hacking-Lab-Final-Exam)
+  - [Coding Dojo Graduation Capstone (Penetration Test)](https://github.com/InfoSecDion/Ethical-Hacking-Lab-Final-Exam)
 
 <h2>💻 Information Technology Projects:</h2>
 
