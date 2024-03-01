@@ -19,6 +19,10 @@
 
 <h2>🎭 Cybersecurity Projects:</h2>
 
+- <b>Cybersecurity Homelab</b>
+  - [Building a Cybersecurity Homelab for Detection & Monitoring]([https://github.com/InfoSecDion/Threat-Intel](https://github.com/InfoSecDion/Homelab-Detection-and-Monitoring?tab=readme-ov-file))
+
+
 - <b>Amazon Web Services</b>
   - [Automated User Migration with AWS Identity and Access Management](https://github.com/InfoSecDion/AWS-IAM)
     
