@@ -35,9 +35,6 @@
 - <b>Vulnerability Management</b>
   - [Nessus Basics Tutorial](https://medium.com/@parkerbenitez/nessus-basics-tutorial-vulnerability-management-fb20f2b765d) 
 
-- <b>Identity and Acess Management</b>
-  - [Creating 1,000+ Users With Powershell](https://medium.com/@parkerbenitez/active-directory-project-how-to-set-up-a-running-ad-create-1-000-users-with-powershell-751991769cb9)
-
 - <b>Amazon Web Services</b>
   - [Automated User Migration with AWS Identity and Access Management](https://github.com/InfoSecDion/AWS-IAM)
 
