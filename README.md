@@ -30,7 +30,6 @@
 - <b>Threat Detection</b>
   - [SOC Analyst Lab with EDR](https://medium.com/@InfoSecDion/soc-analyst-lab-w-edr-ca96712d3ec9)
   - [Detection & Monitoring with Splunk & Snort](https://medium.com/@InfoSecDion/detection-and-monitoring-w-splunk-snort-c93b5dd01229)
-  - [Threat Detection With YARA](https://medium.com/@InfoSecDion/threat-detection-w-yara-lab-257151cd3e30)
 
    
 - <b>Vulnerability Management</b>
@@ -41,9 +40,6 @@
 
 - <b>Network and Malware Analysis</b>
   - [Wireshark Traffic and Malware Analysis](https://medium.com/@InfoSecDion/wireshark-network-malware-analysis-ff784ee98206)
-
-- <b>Next-Gen Firewall</b>
-  - [OPNsense Next-Gen Firewall: A Deep Dive into Suricata Integration](https://medium.com/@InfoSecDion/opnsense-next-gen-firewall-a-deep-dive-into-suricata-integration-bed23b5ebbbf)
     
 - <b>Threat Intelligence</b>
   - [Threat Intelligence Report Lab (OSINT)](https://github.com/InfoSecDion/Threat-Intel)
