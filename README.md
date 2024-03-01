@@ -22,27 +22,28 @@
 - <b>Cybersecurity Homelab</b>
   - [Building a Cybersecurity Homelab for Detection & Monitoring](https://github.com/InfoSecDion/Homelab-Detection-and-Monitoring)
 
-- <b>Threat Detection</b>
-  - [SOC Analyst Lab with EDR](https://medium.com/@parkerbenitez/soc-analyst-lab-with-edr-b40ae28c5ce5)
-  - [Detection & Monitoring with Splunk & Snort](https://medium.com/@parkerbenitez/monitoring-with-splunk-x-snort-30795377330d)
-  - [Threat Detection With YARA](https://medium.com/@parkerbenitez/what-is-yara-d9d5e04763dc)
- 
 - <b>Microsoft Azure</b>
   - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/InfoSecDion/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)                        
   - [Setup a SIEM in Microsoft Azure (Sentinel)](https://github.com/InfoSecDion/Setup-a-SIEM-in-Microsoft-Azure-Sentinel-)
   - [Azure Vulnerability Management Lab (OpenVAS)](https://github.com/InfoSecDion/OpenVAS)
+    
+- <b>Threat Detection</b>
+  - [SOC Analyst Lab with EDR](https://medium.com/@InfoSecDion/soc-analyst-lab-w-edr-ca96712d3ec9)
+  - [Detection & Monitoring with Splunk & Snort](https://medium.com/@InfoSecDion/detection-and-monitoring-w-splunk-snort-c93b5dd01229)
+  - [Threat Detection With YARA](https://medium.com/@InfoSecDion/threat-detection-w-yara-lab-257151cd3e30)
+
    
 - <b>Vulnerability Management</b>
-  - [Nessus Basics Tutorial](https://medium.com/@parkerbenitez/nessus-basics-tutorial-vulnerability-management-fb20f2b765d) 
+  - [Nessus Basics Tutorial](https://medium.com/@InfoSecDion/nessus-tutorial-8aca58424b71) 
 
 - <b>Amazon Web Services</b>
   - [Automated User Migration with AWS Identity and Access Management](https://github.com/InfoSecDion/AWS-IAM)
 
 - <b>Network and Malware Analysis</b>
-  - [Wireshark Traffic and Malware Analysis](https://medium.com/@parkerbenitez/wireshark-traffic-and-malware-analysis-2a5da9b5a610)
+  - [Wireshark Traffic and Malware Analysis](https://medium.com/@InfoSecDion/wireshark-network-malware-analysis-ff784ee98206)
 
 - <b>Next-Gen Firewall</b>
-  - [OPNsense Next-Gen Firewall: A Deep Dive into Suricata Integration](https://medium.com/@parkerbenitez/opnsense-next-gen-firewall-a-deep-dive-into-suricata-integration-e5b71cb9b3b3)
+  - [OPNsense Next-Gen Firewall: A Deep Dive into Suricata Integration](https://medium.com/@InfoSecDion/opnsense-next-gen-firewall-a-deep-dive-into-suricata-integration-bed23b5ebbbf)
     
 - <b>Threat Intelligence</b>
   - [Threat Intelligence Report Lab (OSINT)](https://github.com/InfoSecDion/Threat-Intel)
@@ -69,8 +70,8 @@
   - [Using a Python script to scan IP addresses for open ports](https://github.com/InfoSecDion/Python-port-scanner)
   - [Using a Python script to hash a file](https://github.com/InfoSecDion/File-hash)
 - <b>Scripting</b>
-  - [Python Nmap Scanner](https://github.com/parkerb123/python3-NmapScanner/blob/main/README.md)
-  - [Python Port Scanner](https://github.com/parkerb123/Python3_PortScanner/blob/main/README.md)
+  - [Python Nmap Scanner](https://github.com/InfoSecDion/Python-NMAP-scanner)
+  - [Python Port Scanner](https://github.com/InfoSecDion/Python3-Port-Scanner)
 
 
 
