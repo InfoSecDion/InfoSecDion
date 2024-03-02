@@ -58,6 +58,7 @@
   - [Configuring DNS settings within Azure VMs](https://github.com/InfoSecDion/Configuring-DNS-settings-within-Azure)
   - [Network File Shares and Permissions within Azure VMs](https://github.com/InfoSecDion/Network-file-shares-and-positions-within-Azure-VMs)
   - [VPN: VPN Setup and Usage (Proton VPN)](https://github.com/InfoSecDion/VPN-setup)
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/InfoSecDion/osTicket-Prerequisites-and-Installation)
   - [osTicket: Post-Installation Configuration](https://github.com/InfoSecDion/Post-installation-configuration)
