@@ -21,22 +21,23 @@
 
 - <b>Cybersecurity Homelab</b>
   - [Building a Cybersecurity Homelab for Detection & Monitoring](https://github.com/InfoSecDion/Homelab-Detection-and-Monitoring)
+  - [Cloud Security Home Lab](https://github.com/InfoSecDion/Active-Directory-Home-Lab)
 
 - <b>Microsoft Azure</b>
   - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/InfoSecDion/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)                        
   - [Setup a SIEM in Microsoft Azure (Sentinel)](https://github.com/InfoSecDion/Setup-a-SIEM-in-Microsoft-Azure-Sentinel-)
   - [Azure Vulnerability Management Lab (OpenVAS)](https://github.com/InfoSecDion/OpenVAS)
-    
+
+- <b>Amazon Web Services</b>
+  - [Introduction to AWS Identity and Access Management](https://github.com/InfoSecDion/Introduction-to-AWS-Identity-and-Access-Management-IAM)
+  - [Automated User Migration with AWS Identity and Access Management](https://github.com/InfoSecDion/AWS-IAM) 
+
 - <b>Threat Detection</b>
   - [SOC Analyst Lab with EDR](https://medium.com/@InfoSecDion/soc-analyst-lab-w-edr-ca96712d3ec9)
   - [Detection & Monitoring with Splunk & Snort](https://medium.com/@InfoSecDion/detection-and-monitoring-w-splunk-snort-c93b5dd01229)
 
-   
 - <b>Vulnerability Management</b>
   - [Nessus Basics Tutorial](https://medium.com/@InfoSecDion/nessus-tutorial-8aca58424b71) 
-
-- <b>Amazon Web Services</b>
-  - [Automated User Migration with AWS Identity and Access Management](https://github.com/InfoSecDion/AWS-IAM)
 
 - <b>Network and Malware Analysis</b>
   - [Wireshark Traffic and Malware Analysis](https://medium.com/@InfoSecDion/wireshark-network-malware-analysis-ff784ee98206)
@@ -50,6 +51,8 @@
 <h2>💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
+  - [Active Directory Home Lab](https://github.com/InfoSecDion/Active-Directory-Home-Lab)
+  - [The-Power-of-Active-Directory-A-Thorough-Guide-to-Simplified-Network-Management](https://github.com/InfoSecDion/The-Power-of-Active-Directory-A-Thorough-Guide-to-Simplified-Network-Management)
   - [Configuring Active Directory within Azure VMs](https://github.com/InfoSecDion/Configuring-Active-Directory-with-Azure-VM-s)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/InfoSecDion/Network-Security-Groups-and-inspecting-traffic-between-Azure-Virtual-Machines-NSG-s-)
   - [Configuring DNS settings within Azure VMs](https://github.com/InfoSecDion/Configuring-DNS-settings-within-Azure)
