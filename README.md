@@ -21,7 +21,7 @@
 
 - <b>Cybersecurity Homelab</b>
   - [Building a Cybersecurity Homelab for Detection & Monitoring](https://github.com/InfoSecDion/Homelab-Detection-and-Monitoring)
-  - [Cloud Security Home Lab](https://github.com/InfoSecDion/Cloud-Cybersecurity-Homelab/tree/InfoSecDion-patch-1)
+  - [Cloud Security Home Lab](https://github.com/InfoSecDion/Cloud-Cybersecurity-Homelab/tree/Guide)
 
 - <b>Microsoft Azure</b>
   - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/InfoSecDion/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)                        
