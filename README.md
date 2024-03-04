@@ -4,9 +4,9 @@
 
 - 🛫 I currently work on Cyber Defense, Vulnerability Management and Identity and Access Management (IAM) at the 688th Cyberspace Wing of the USAF.
 
-- 🧠 I’m currently learning **Cloud Security, Cloud Vulnerability Analysis & Vulnerability Management**
+- 🧠 I’m currently learning **Cloud Security, Privileged Access Management & Vulnerability Management**
 
-- 🤝 I’m open to collaborating on Vulnerability Management based projects, IAM Projects, Home Labs & more.
+- 🤝 I’m open to collaborating on Vulnerability Management based projects, IAM/PAM Projects, Home Labs & more.
 
 - 📝 I regularly write articles on [https://www.Medium.com](https://medium.com/@InfoSecDion)
 
