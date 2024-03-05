@@ -23,6 +23,14 @@
   - [Building a Cybersecurity Homelab for Detection & Monitoring](https://github.com/InfoSecDion/Homelab-Detection-and-Monitoring)
   - [Cloud Security Home Lab](https://github.com/InfoSecDion/Cloud-Cybersecurity-Homelab/tree/Guide)
 
+
+- <b>Threat Detection</b>
+
+  - [Hunting In the Shadows: CrowdStrike’s Advanced Threat Detection Prowess](https://github.com/InfoSecDion/CrowdStrike-Threat-Detection-Lab)
+  - [Beyond the Breach: Splunk Strategies for Incident Response](https://github.com/InfoSecDion/Splunk-Incident-Response-Lab)
+  - [SOC Analyst Lab with EDR](https://medium.com/@InfoSecDion/soc-analyst-w-edr-lab-9720a62e6430)
+  - [Detection & Monitoring with Splunk & Snort](https://medium.com/@InfoSecDion/detection-and-monitoring-w-splunk-snort-c93b5dd01229)
+
 - <b>Microsoft Azure</b>
   - [Building a SOC + Honeynet in Azure (Live Traffic)](https://github.com/InfoSecDion/Building-a-SOC-Honeynet-in-Azure-Live-Traffic-)                        
   - [Setup a SIEM in Microsoft Azure (Sentinel)](https://github.com/InfoSecDion/Setup-a-SIEM-in-Microsoft-Azure-Sentinel-)
@@ -31,12 +39,6 @@
 - <b>Amazon Web Services</b>
   - [Introduction to AWS Identity and Access Management](https://github.com/InfoSecDion/Introduction-to-AWS-Identity-and-Access-Management-IAM)
   - [Automated User Migration with AWS Identity and Access Management](https://github.com/InfoSecDion/AWS-IAM) 
-
-- <b>Threat Detection</b>
-  - [Hunting In the Shadows: CrowdStrike’s Advanced Threat Detection Prowess](https://github.com/InfoSecDion/CrowdStrike-Threat-Detection-Lab)
-  - [Beyond the Breach: Splunk Strategies for Incident Response](https://github.com/InfoSecDion/Splunk-Incident-Response-Lab)
-  - [SOC Analyst Lab with EDR](https://medium.com/@InfoSecDion/soc-analyst-w-edr-lab-9720a62e6430)
-  - [Detection & Monitoring with Splunk & Snort](https://medium.com/@InfoSecDion/detection-and-monitoring-w-splunk-snort-c93b5dd01229)
 
 - <b>Vulnerability Management</b>
   - [Nessus Basics Tutorial](https://medium.com/@InfoSecDion/nessus-tutorial-8aca58424b71) 
