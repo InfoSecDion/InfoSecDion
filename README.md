@@ -35,7 +35,7 @@
 - <b>Threat Detection</b>
   - [Hunting In the Shadows: CrowdStrike’s Advanced Threat Detection Prowess](https://github.com/InfoSecDion/CrowdStrike-Threat-Detection-Lab)
   - [Beyond the Breach: Splunk Strategies for Incident Response](https://github.com/InfoSecDion/Splunk-Incident-Response-Lab)
-  - [SOC Analyst Lab with EDR](https://medium.com/@InfoSecDion/soc-analyst-lab-w-edr-ca96712d3ec9)
+  - [SOC Analyst Lab with EDR](https://medium.com/@InfoSecDion/soc-analyst-w-edr-lab-9720a62e6430)
   - [Detection & Monitoring with Splunk & Snort](https://medium.com/@InfoSecDion/detection-and-monitoring-w-splunk-snort-c93b5dd01229)
 
 - <b>Vulnerability Management</b>
