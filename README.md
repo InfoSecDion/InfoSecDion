@@ -4,9 +4,9 @@
 
 - 🛫 I currently work on Cyber Defense (National Security), Vulnerability Management and Identity and Access Management (IAM) at the 688th Cyberspace Wing of the USAF, as an Aerospace DoD contractor.
 
-- 🧠 I’m currently learning **OSINT, Cloud Security, Powershell & Python**
+- 🧠 I’m currently learning **OSINT, Cloud Security, Privileged Access Management, Programming & Scripting**
 
-- 🤝 I’m open to collaborating on Vulnerability Management based projects, IAM/PAM Projects, Home Labs & more.
+- 🤝 I’m open to collaborating on Vulnerability Management based projects, IAM Projects, Home Labs & more.
 
 - 📝 I regularly write articles on [https://www.Medium.com](https://medium.com/@InfoSecDion)
 
