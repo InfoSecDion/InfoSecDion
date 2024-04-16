@@ -26,6 +26,7 @@
 
 - <b>Threat Detection</b>
 
+  - [Splunk OpsView Advanced Dashboards and SPL Analysis](https://github.com/InfoSecDion/Splunk-OpsView-Advanced-Dashboards-and-SPL-Analysis)
   - [Hunting In the Shadows: CrowdStrike’s Advanced Threat Detection Prowess](https://github.com/InfoSecDion/CrowdStrike-Threat-Detection-Lab)
   - [Beyond the Breach: Splunk Strategies for Incident Response](https://github.com/InfoSecDion/Splunk-Incident-Response-Lab)
   - [SOC Analyst Lab with EDR](https://medium.com/@InfoSecDion/soc-analyst-w-edr-lab-9720a62e6430)
