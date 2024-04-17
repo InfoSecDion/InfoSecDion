@@ -2,11 +2,11 @@
 
 <h1>I'm Dion, an <a href="https://www.linkedin.com/in/dion-alexander-682b04233/">IT and Cybersecurity Professional</a> 💻🛡</h1>
 
-- 🛫 I currently work on Cyber Defense (National Security), Vulnerability Management and Identity and Access Management (IAM) at the 688th Cyberspace Wing of the USAF, as an Aerospace DoD contractor.
+- 🛫 I currently work on Cyber Defense (National Security), Sec Ops, Vulnerability Management and Identity and Access Management (IAM) at the 688th Cyberspace Wing of the USAF, as an Aerospace DoD contractor.
 
-- 🧠 I’m currently learning **Vulnerability Scanning, Vulnerability Remediation, Vulnerability Management, Programming & Scripting**.
+- 🧠 I’m currently learning **Cloud Security, Vulnerability Management, Programming & Scripting**.
 
-- 🤝 I’m open to collaborating on Vulnerability Management based projects, IAM Projects, Home Labs & more.
+- 🤝 I’m open to collaborating on Blue Team Projects, Vulnerability Management based projects, IAM Projects, Home Labs & more.
 
 - 📝 I regularly write articles on [https://www.Medium.com](https://medium.com/@InfoSecDion)
 
