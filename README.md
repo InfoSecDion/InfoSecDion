@@ -21,7 +21,13 @@
 
 - <b>Cybersecurity Homelab</b>
   - [Building a Cybersecurity Homelab for Detection & Monitoring](https://github.com/InfoSecDion/Homelab-Detection-and-Monitoring)
-  - [Cloud Security Home Lab](https://github.com/InfoSecDion/Cloud-Cybersecurity-Homelab/tree/Guide)
+
+- <b>DISA STTGS & Remediations</b>
+  - [STIG-ID-WN10-AC-000005](https://github.com/InfoSecDion/STIG-ID-WN10-AC-000005)
+  - [STIG-ID-WN10-SO-000030](https://github.com/InfoSecDion/STIG-ID-WN10-SO-000030)
+  - [STIG-ID-WN10-AC-000035](https://github.com/InfoSecDion/STIG-ID-WN10-AC-000035)
+  - [STIG-ID-WN10-AC-000030](https://github.com/InfoSecDion/STIG-ID-WN10-AC-000030)
+  - [STIG-ID-WN10-AU-000500](https://github.com/InfoSecDion/STIG-ID-WN10-AU-000500)
 
 
 - <b>Threat Detection</b>
@@ -49,25 +55,7 @@
     
 - <b>Threat Intelligence</b>
   - [Threat Intelligence Report Lab (OSINT)](https://github.com/InfoSecDion/Threat-Intel)
- 
-- <b>Offensive Security</b>
-  - [Coding Dojo Graduation Capstone (Penetration Test)](https://github.com/InfoSecDion/Ethical-Hacking-Lab-Final-Exam)
 
-<h2>💻 Information Technology Projects:</h2>
-
-- <b>Microsoft Azure</b>
-  - [Active Directory Home Lab](https://github.com/InfoSecDion/Active-Directory-Home-Lab)
-  - [The-Power-of-Active-Directory-A-Thorough-Guide-to-Simplified-Network-Management](https://github.com/InfoSecDion/The-Power-of-Active-Directory-A-Thorough-Guide-to-Simplified-Network-Management)
-  - [Configuring Active Directory within Azure VMs](https://github.com/InfoSecDion/Configuring-Active-Directory-with-Azure-VM-s)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/InfoSecDion/Network-Security-Groups-and-inspecting-traffic-between-Azure-Virtual-Machines-NSG-s-)
-  - [Configuring DNS settings within Azure VMs](https://github.com/InfoSecDion/Configuring-DNS-settings-within-Azure)
-  - [Network File Shares and Permissions within Azure VMs](https://github.com/InfoSecDion/Network-file-shares-and-positions-within-Azure-VMs)
-  - [VPN: VPN Setup and Usage (Proton VPN)](https://github.com/InfoSecDion/VPN-setup)
-
-- <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/InfoSecDion/osTicket-Prerequisites-and-Installation)
-  - [osTicket: Post-Installation Configuration](https://github.com/InfoSecDion/Post-installation-configuration)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/InfoSecDion/Ticket-life-cycle-examples)
     
 <h2>👨🏾‍💻 Programming Projects:</h2>
 
