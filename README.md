@@ -6,7 +6,7 @@
 
 - 🤝 I’m open to collaborating on Blue Team Projects, Detection Engineering projects, Python Projects, Home Labs & more.
 
-- 💬 Ask me about **Ask me about Threat Detection, SIEM, Incident Response, or getting into Detection Engineering**
+- 💬 **Ask me about Threat Detection, SIEM, Incident Response, or getting into Detection Engineering**
 
 - 📝 I write articles on [https://www.Medium.com](https://medium.com/@InfoSecDion)
 
