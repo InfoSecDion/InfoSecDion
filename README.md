@@ -22,14 +22,6 @@
 - <b>Cybersecurity Homelab</b>
   - [Building a Cybersecurity Homelab for Detection & Monitoring](https://github.com/InfoSecDion/Homelab-Detection-and-Monitoring)
 
-- <b>DISA STTGS & Remediations</b>
-  - [STIG-ID-WN10-AC-000005](https://github.com/InfoSecDion/STIG-ID-WN10-AC-000005)
-  - [STIG-ID-WN10-SO-000030](https://github.com/InfoSecDion/STIG-ID-WN10-SO-000030)
-  - [STIG-ID-WN10-AC-000035](https://github.com/InfoSecDion/STIG-ID-WN10-AC-000035)
-  - [STIG-ID-WN10-AC-000030](https://github.com/InfoSecDion/STIG-ID-WN10-AC-000030)
-  - [STIG-ID-WN10-AU-000500](https://github.com/InfoSecDion/STIG-ID-WN10-AU-000500)
-
-
 - <b>Threat Detection</b>
 
   - [Splunk OpsView Advanced Dashboards and SPL Analysis](https://github.com/InfoSecDion/Splunk-OpsView-Advanced-Dashboards-and-SPL-Analysis)
@@ -48,7 +40,12 @@
   - [Automated User Migration with AWS Identity and Access Management](https://github.com/InfoSecDion/AWS-IAM) 
 
 - <b>Vulnerability Management</b>
-  - [Nessus Basics Tutorial](https://medium.com/@InfoSecDion/nessus-tutorial-8aca58424b71) 
+  - [Nessus Basics Tutorial](https://medium.com/@InfoSecDion/nessus-tutorial-8aca58424b71)
+  - [STIG-ID-WN10-AC-000005](https://github.com/InfoSecDion/STIG-ID-WN10-AC-000005)
+  - [STIG-ID-WN10-SO-000030](https://github.com/InfoSecDion/STIG-ID-WN10-SO-000030)
+  - [STIG-ID-WN10-AC-000035](https://github.com/InfoSecDion/STIG-ID-WN10-AC-000035)
+  - [STIG-ID-WN10-AC-000030](https://github.com/InfoSecDion/STIG-ID-WN10-AC-000030)
+  - [STIG-ID-WN10-AU-000500](https://github.com/InfoSecDion/STIG-ID-WN10-AU-000500)
 
 - <b>Network and Malware Analysis</b>
   - [Wireshark Traffic and Malware Analysis](https://medium.com/@InfoSecDion/wireshark-network-malware-analysis-ff784ee98206)
