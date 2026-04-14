@@ -46,13 +46,9 @@
   - [Threat Intelligence Report Lab (OSINT)](https://github.com/InfoSecDion/Threat-Intel)
 
     
-<h2>👨🏾‍💻 Programming Projects:</h2>
+<h2>👨🏾‍💻 Programming & Scripting Projects:</h2>
 
 - <b>Python</b>
-  - [Using a Python script to scan IP addresses for open ports](https://github.com/InfoSecDion/Python-port-scanner)
-  - [Using a Python script to hash a file](https://github.com/InfoSecDion/File-hash)
-- <b>Scripting</b>
-  - [Python Nmap Scanner](https://github.com/InfoSecDion/Python-NMAP-scanner)
   - [Python Port Scanner](https://github.com/InfoSecDion/Python3-Port-Scanner)
 
 
