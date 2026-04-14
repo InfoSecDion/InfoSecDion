@@ -4,13 +4,11 @@
 
 - 🌨️ I'm a SOC Analyst actively building Tier 2 and Tier 3 skill sets across DFIR, threat hunting, adversary emulation, and detection development. Everything I'm working on feeds into a long term goal of becoming a Detection Engineer. Currently pursuing my MSCS in Computer Science and open to Detection Engineering internship opportunities.
 
-- 🧠 I’m currently learning **DE, Cloud Sec, DF/IR, Threat Hunting, Programming & Scripting**.
+- 🤝 I’m open to collaborating on Blue Team Projects, Detection Engineering projects, Python Projects, Home Labs & more.
 
-- 🤝 I’m open to collaborating on Blue Team Projects, Detection Engineering based projects, Python Projects, Home Labs & more.
+- 📝 I write articles on [https://www.Medium.com](https://medium.com/@InfoSecDion)
 
-- 📝 I regularly write articles on [https://www.Medium.com](https://medium.com/@InfoSecDion)
-
-- 💬 Ask me about **Cybersecurity & Cloud Security**
+- 💬 Ask me about **Ask me about Threat Detection, SIEM, Incident Response, or getting into Detection Engineering**
 
 - 📫 How to reach me **https://solo.to/infosecdion**
 
