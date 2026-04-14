@@ -2,7 +2,7 @@
 
 <h1>I'm Dion, an <a href="https://www.linkedin.com/in/dion-alexander-682b04233/">IT and Cybersecurity Professional</a> 💻🛡</h1>
 
-- 🌨️ I'm a SOC Analyst actively building Tier 2 and Tier 3 skill sets across DFIR, threat hunting, adversary emulation, and detection development. Everything I'm working on feeds into a long term goal of becoming a Detection Engineer. Currently pursuing my MSCS in Computer Science and open to Detection Engineering internship opportunities.
+- 🌨️ I'm a SOC Analyst actively building Tier 2 and Tier 3 skill sets across DFIR, threat hunting, adversary emulation, and detection development. Everything I'm working on feeds into a long term goal of becoming a Detection Engineer. Currently pursuing my MSCS in Computer Science and open to Threat Hunting or Detection Engineering internship opportunities.
 
 - 🤝 I’m open to collaborating on Blue Team Projects, Detection Engineering projects, Python Projects, Home Labs & more.
 
