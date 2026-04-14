@@ -2,11 +2,11 @@
 
 <h1>I'm Dion, an <a href="https://www.linkedin.com/in/dion-alexander-682b04233/">IT and Cybersecurity Professional</a> 💻🛡</h1>
 
-- 🌨️ I currently work on Security operations, Incident Response, Threat Hunting and Vulnerability Management in my current role.
+- 🌨️ I currently work on Security operations and Incident response in my current role.
 
 - 🧠 I’m currently learning **Cloud Security, Digital Forensics, Programming & Scripting**.
 
-- 🤝 I’m open to collaborating on Blue Team Projects, Vulnerability Management based projects, IAM Projects, Home Labs & more.
+- 🤝 I’m open to collaborating on Blue Team Projects, Detection Engineering based projects, Pyhton Projects, Home Labs & more.
 
 - 📝 I regularly write articles on [https://www.Medium.com](https://medium.com/@InfoSecDion)
 
