@@ -37,7 +37,6 @@
 
 - <b>Amazon Web Services</b>
   - [Introduction to AWS Identity and Access Management](https://github.com/InfoSecDion/Introduction-to-AWS-Identity-and-Access-Management-IAM)
-  - [Automated User Migration with AWS Identity and Access Management](https://github.com/InfoSecDion/AWS-IAM) 
 
 - <b>Vulnerability Management</b>
   - [Nessus Basics Tutorial](https://medium.com/@InfoSecDion/nessus-tutorial-8aca58424b71)
