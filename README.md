@@ -21,7 +21,7 @@
   - [Building a Cybersecurity Homelab for Detection & Monitoring](https://github.com/InfoSecDion/Homelab-Detection-and-Monitoring)
  
 - <b>Threat Hunting</b>
- - [Threat Hunt Investigation | MITRE-Mapped Cyber Range CTF](https://github.com/InfoSecDion/Threat-Hunt-Report-Support-Session)
+  - [Threat Hunt Investigation | MITRE-Mapped CTF](https://github.com/InfoSecDion/Threat-Hunt-Report-Support-Session)
 
 - <b>Threat Detection</b>
   - [Splunk OpsView Advanced Dashboards and SPL Analysis](https://github.com/InfoSecDion/Splunk-OpsView-Advanced-Dashboards-and-SPL-Analysis)
