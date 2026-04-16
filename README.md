@@ -54,6 +54,9 @@
 - <b>Python</b>
   - [Python Port Scanner](https://github.com/InfoSecDion/Python3-Port-Scanner)
 
+<h2 align="left">Certifications:</h2>
+<p align="left"><img src="https://img.shields.io/badge/CompTIA%20Security%2B-E31837?style=for-the-badge&logo=comptia&logoColor=white" alt="Security+"/> <img src="https://img.shields.io/badge/CompTIA%20CySA%2B-E31837?style=for-the-badge&logo=comptia&logoColor=white" alt="CySA+"/> <img src="https://img.shields.io/badge/CompTIA%20PenTest%2B-E31837?style=for-the-badge&logo=comptia&logoColor=white" alt="PenTest+"/> <img src="https://img.shields.io/badge/BTL1-1E90FF?style=for-the-badge&logo=security&logoColor=white" alt="BTL1"/> <img src="https://img.shields.io/badge/TCM%20PSAA-000000?style=for-the-badge&logo=hackthebox&logoColor=white" alt="PSAA"/> <img src="https://img.shields.io/badge/CCDL1-FFA500?style=for-the-badge&logo=target&logoColor=white" alt="CCDL1"/> <img src="https://img.shields.io/badge/Splunk%20Core%20Power%20User-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk Core Power User"/></p>
+
 
 <h2> Languages and Tools:</h2>
 
@@ -74,3 +77,4 @@
 
 
 <p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=InfoSecDion&theme=react-dark&hide_border=true" alt="activity graph"/></p>
+
