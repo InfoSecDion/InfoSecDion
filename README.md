@@ -15,7 +15,7 @@
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/109401839/212478926-900d4c1f-7cc6-4334-a601-523e4f7c5a62.svg)
 ---
 
-<h2>🎭 Cybersecurity Projects:</h2>
+<h2> Cybersecurity Projects:</h2>
 
 - <b>Cybersecurity Homelab</b>
   - [Building a Cybersecurity Homelab for Detection & Monitoring](https://github.com/InfoSecDion/Homelab-Detection-and-Monitoring)
@@ -49,20 +49,28 @@
   - [Threat Intelligence Report Lab (OSINT)](https://github.com/InfoSecDion/Threat-Intel)
 
     
-<h2>👨🏾‍💻 Programming & Scripting Projects:</h2>
+<h2> Programming & Scripting Projects:</h2>
 
 - <b>Python</b>
   - [Python Port Scanner](https://github.com/InfoSecDion/Python3-Port-Scanner)
 
 
+<h2> Languages and Tools:</h2>
 
+<p align="left"><img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="Splunk"/> <img src="https://img.shields.io/badge/Microsoft%20Sentinel-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Microsoft Sentinel"/> <img src="https://img.shields.io/badge/Microsoft%20Defender-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Microsoft Defender"/> <img src="https://img.shields.io/badge/CrowdStrike%20Falcon-FF0000?style=for-the-badge&logo=crowdstrike&logoColor=white" alt="CrowdStrike"/> <img src="https://img.shields.io/badge/Suricata-EE3A43?style=for-the-badge&logo=suricata&logoColor=white" alt="Suricata"/> <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark"/> <img src="https://img.shields.io/badge/Active%20Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="Active Directory"/> <img src="https://img.shields.io/badge/Microsoft%20Entra%20ID-2F2F2F?style=for-the-badge&logo=microsoftentra&logoColor=white" alt="Entra ID"/> <img src="https://img.shields.io/badge/Proofpoint-0077C8?style=for-the-badge&logo=proofpoint&logoColor=white" alt="Proofpoint"/> <img src="https://img.shields.io/badge/Autopsy-2E8B57?style=for-the-badge&logo=files&logoColor=white" alt="Autopsy"/> <img src="https://img.shields.io/badge/Timeline%20Explorer-1F6FEB?style=for-the-badge&logo=files&logoColor=white" alt="Timeline Explorer"/> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS"/> <img src="https://img.shields.io/badge/Microsoft%20Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure"/> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL"/> <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/></p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p <p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>  </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h2> Detection & Query Languages:</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=InfoSecDion&show_icons=true&locale=en&layout=compact" alt="InfoSecDion" /></p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-30%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python 30%"/>
+  <img src="https://img.shields.io/badge/SPL-25%25-000000?style=for-the-badge&logo=splunk&logoColor=white" alt="SPL 25%"/>
+  <img src="https://img.shields.io/badge/KQL-25%25-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" alt="KQL 25%"/>
+  <img src="https://img.shields.io/badge/SQL-20%25-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL 20%"/>
+</p>
 
+<h2> Github Stats:</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=InfoSecDion&show_icons=true&locale=en" alt="InfoSecDion" /></p>
-
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=InfoSecDion&" alt="InfoSecDion1" /></p>
 
+
+<p align="center"><img src="https://github-readme-activity-graph.vercel.app/graph?username=InfoSecDion&theme=react-dark&hide_border=true" alt="activity graph"/></p>
