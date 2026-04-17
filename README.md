@@ -4,9 +4,9 @@
 
 - 👨🏾‍💻 SOC Analyst focused on building toward Tier 2/3 responsibilities across incident response, threat hunting, adversary emulation, and detection development. Most of my work centers around understanding real alert patterns, improving detection logic, and getting more efficient at investigating suspicious activity in a SOC environment. Long term, I’m working toward a role in threat hunting/Threat detection engineering. Currently pursuing an MS in Computer Science and open to threat hunting or detection engineering internship opportunities.
 
-- 🧠 Focused on building real-world skills outside my WGU M.S. in Computer Science, working through BTL1, CCDL1, PSAA, and HTB CDSA to improve in DFIR, threat hunting, and detection. After September 1, 2026, I’ll be self-funding the rest of my degree and using my remaining GI Bill benefits to complete a SANS post-graduate program in Cybersecurity Engineering, with an elective focus on threat hunting, incident response, and digital forensics (GCFA), staying on a structured path toward detection and IR.
+- 🧠 Focused on advancing hands-on skills outside my WGU M.S. in Computer Science, working through BTL1, CCDL1, PSAA, and HTB CDSA to deepen DFIR, threat hunting, and detection capabilities. After September 1, 2026, I’ll be self-funding the rest of my degree and using my remaining GI Bill benefits to complete a SANS post-graduate program in Cybersecurity Engineering, earning GIAC certifications (GSEC, GCIH, GCIA, GCFA) with an elective focus on threat hunting, incident response, and digital forensics, following a structured path into detection and IR.
 
-- 🤝 I’m open to collaborating on Blue Team Projects, Threat Hunting or Detection Engineering projects, Python Projects, Home Labs & more.
+- 🤝 I’m open to collaborating on Blue Team Projects, Threat Hunting or Threat Detection Engineering projects, Python Projects, Home Labs & more.
 
 - 💬 **Ask me about Threat Detection, SIEM, Incident Response, Threat Hunting or getting into Threat Detection Engineering**
 
