@@ -2,7 +2,7 @@
 
 <h1>I'm Dion, an <a href="https://www.linkedin.com/in/dion-alexander-682b04233/">IT and Cybersecurity Professional</a> 💻🛡</h1>
 
-- 👨🏾‍💻 SOC Analyst focused on building toward Tier 2/3 responsibilities across incident response, threat hunting, adversary emulation, and detection development. Most of my work centers around understanding real alert patterns, improving detection logic, and getting more efficient at investigating suspicious activity in a SOC environment. Long term, I’m working toward a role in threat hunting/Threat detection engineering. Currently pursuing an MS in Computer Science and open to threat hunting or detection engineering internship opportunities.
+- 👨🏾‍💻 SOC Analyst focused on building toward Tier 2/3 responsibilities across incident response, threat hunting, adversary emulation, and detection development. Most of my work centers around understanding real alert patterns, improving detection logic, and getting more efficient at investigating suspicious activity in a SOC environment. Long term, I’m working toward a role in threat hunting/Threat detection engineering.
 
 - 🧠 Focused on advancing hands-on skills outside my WGU M.S. in Computer Science, working through BTL1, CCDL1, PSAA, and HTB CDSA to deepen DFIR, threat hunting, and detection capabilities. After September 1, 2026, I’ll be self-funding the rest of my degree and using my remaining GI Bill benefits to complete a SANS post-graduate program in Cybersecurity Engineering, earning GIAC certifications (GSEC, GCIH, GCIA, GCFA) with an elective focus on threat hunting, incident response, and digital forensics, following a structured path into detection and IR.
 
